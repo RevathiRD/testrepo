@@ -33,7 +33,7 @@ build:
     
 integrations:
   hub:
-    - integrationName: test-jfrogartifactory
+    - integrationName: test_jfrogartifactory
       type: artifactory    
       
       
